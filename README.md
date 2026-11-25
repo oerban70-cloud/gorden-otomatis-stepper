@@ -9,7 +9,7 @@ memutar balik dan gorden tertutup sendiri. Dua ambang yang berbeda
 misalnya saat awan lewat.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/SpqPcDPu5Ko
 
 ## Komponen
 
